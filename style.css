@@ -111,6 +111,14 @@ nav img{
 	width: 150px;
 }
 
+.types-col{
+	flex-basis: 31%;
+	background: #fff3f3;
+	border-radius: 5px;
+	margin-bottom: 5%;
+	padding: 20px 12px;
+	box-sizing: border-box;
+}
 
 
 
@@ -148,6 +156,15 @@ nav img{
 
 .logo img{
 	width: 150px;
+}
+
+
+
+
+/*-------p5----*/
+
+canvas {
+  display: block;
 }
 
 
